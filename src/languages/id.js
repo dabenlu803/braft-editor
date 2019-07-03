@@ -1,0 +1,75 @@
+export default {
+  base: {
+    remove: 'Hapus',
+    cancel: 'Batal',
+    confirm: 'Konfirmasi',
+    inert: 'Sisipkan',
+    width: 'Lebar',
+    height: 'Tinggi'
+  },
+  controls: {
+    clear: 'Jelas',
+    undo: 'Batalkan',
+    redo: 'Ulang',
+    fontSize: 'Ukuran Font',
+    color: 'Warna',
+    textColor: 'Text',
+    tempColors: 'Temp Colors',
+    backgroundColor: 'Background',
+    bold: 'Tebal',
+    lineHeight: 'Garis Tinggi',
+    letterSpacing: 'Letter Spacing',
+    textIndent: 'Text Indent',
+    increaseIndent: 'Kenaikan Indent',
+    decreaseIndent: 'Kurangi Indent',
+    italic: 'Miring',
+    underline: 'Garis Bawah',
+    strikeThrough: 'Strike Through',
+    fontFamily: 'Font Family',
+    textAlign: 'Penyelarasan Teks',
+    alignLeft: 'Left Alignment',
+    alignCenter: 'Alignment Tengah',
+    alignRight: 'Right Alignment',
+    alignJustify: 'Justify Alignment',
+    floatLeft: 'Left Float',
+    floatRight: 'Right Float',
+    superScript: 'Super Script',
+    subScript: 'Sub Script',
+    removeStyles: 'Hapus Gaya',
+    headings: 'Judul',
+    header: 'Header',
+    normal: 'Normal',
+    orderedList: 'Daftar Pesanan',
+    unorderedList: 'Daftar Tidak Berurut',
+    blockQuote: 'Penawaran',
+    code: 'Kode',
+    link: 'Tautan',
+    unlink: 'Batalkan tautan',
+    hr: 'Garis Horisontal',
+    media: 'Media',
+    mediaLibirary: 'Media Library',
+    emoji: 'Emoji',
+    fullscreen: 'Layar penuh',
+    exitFullscreen: 'Keluar dari Layar Penuh',
+  },
+  linkEditor: {
+    textInputPlaceHolder: 'Input text link',
+    linkInputPlaceHolder: 'Input tautan URL',
+    inputWithEnterPlaceHolder: 'Masukkan URL tautan dan tekan Enter',
+    openInNewWindow: 'Buka di jendela baru',
+    removeLink: 'Hapus Tautan'
+  },
+  audioPlayer: {
+    title: 'Mainkan Audio'
+  },
+  videoPlayer: {
+    title: 'Putar Video',
+    embedTitle: 'Embed Media'
+  },
+  media: {
+    image: 'Gambar',
+    video: 'Video',
+    audio: 'Audio',
+    embed: 'Embed'
+  }
+}
